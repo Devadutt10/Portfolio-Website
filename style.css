@@ -10,6 +10,7 @@
     margin: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 html, body{
@@ -196,6 +197,8 @@ html, body{
     margin-bottom: 2rem;
     margin-top: 2rem;
 }
+
+
 
 
 
